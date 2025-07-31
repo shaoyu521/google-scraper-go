@@ -19,14 +19,14 @@
 go run main.go -t 5
 ```
 ## 📂 文件结构
+ ```plaintext
 google-scraper-go/
 ├── main.go
 ├── keyword.txt # 关键词列表，每行一个关键词
 ├── ua.txt # User-Agent 列表，每行一个
-├── proxy.txt # 代理列表（可选）
-├── result.json # 默认输出文件
-├── go.mod
+├── urls.txt # 默认输出文件
 ├── README.md
+```
 ### 克隆项目
 ```bash
 git clone https://github.com/yourname/google-scraper-go.git
