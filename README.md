@@ -29,7 +29,7 @@ google-scraper-go/
 ```
 ### 克隆项目
 ```bash
-git clone https://github.com/yourname/google-scraper-go.git
+git clone https://github.com/shaoyu521/google-scraper-go.git
 cd google-scraper-go
 go build -o googles.exe 打包exe
 ```
